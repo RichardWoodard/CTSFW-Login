@@ -1,0 +1,12 @@
+{
+  "name": "CTSFW Salesforce Login",
+  "description": "Right half Salesforce login screen",
+  "repository": "https://github.com/RichardWoodard/CTSFW-Login",
+  "website": "https://www.salesforce.com/platform/identity",
+  "logo": "https://login.salesforce.com/logos/Salesforce/Salesforce/logo.png",  
+  "keywords": ["salesforce"],
+  "success_url": "/",
+  "env": {
+    "BUILDPACK_URL": "https://github.com/heroku/heroku-buildpack-php"
+  }
+}
